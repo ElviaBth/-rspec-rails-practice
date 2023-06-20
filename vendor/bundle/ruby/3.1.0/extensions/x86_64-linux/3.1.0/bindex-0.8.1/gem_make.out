@@ -1,0 +1,15 @@
+current directory: /home/elvia/auctions/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/home/elvia/.rbenv/versions/3.1.1/bin/ruby -I /home/elvia/.rbenv/versions/3.1.1/lib/ruby/3.1.0 -r ./siteconf20230621-14448-fo7377.rb extconf.rb
+creating Makefile
+
+current directory: /home/elvia/auctions/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/elvia/auctions/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/elvia/auctions/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20230621-14448-ra7ybw/skiptrace/internal
